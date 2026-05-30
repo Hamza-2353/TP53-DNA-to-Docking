@@ -132,7 +132,7 @@ The TP53 protein sequence (393 aa) was submitted to BLASTP to confirm identity a
 - All top hits have E-value = **0.0** — statistically perfect matches
 - Query length confirmed at **393 amino acids** — matches expected p53 protein length
 
-> 📸
+> 
 <img width="1762" height="671" alt="Screenshot 2026-05-30 104342" src="https://github.com/user-attachments/assets/cb5534bf-d6e1-43d4-9946-0a36ad170d16" />
 
 <img width="1595" height="885" alt="Screenshot 2026-05-30 105813" src="https://github.com/user-attachments/assets/51162e71-c721-4889-9927-358b91da89b2" />
@@ -176,7 +176,9 @@ pLDDT (predicted Local Distance Difference Test) measures per-residue confidence
 | 50 – 70 | Low confidence (may be disordered) |
 | < 50 | Very low (intrinsically disordered) |
 
-> 📸 <img width="1337" height="898" alt="Screenshot 2026-05-30 104943" src="https://github.com/user-attachments/assets/abcd9558-f66b-4850-b5ac-826f3858980e" />
+>  <img width="1337" height="898" alt="Screenshot 2026-05-30 104943" src="https://github.com/user-attachments/assets/abcd9558-f66b-4850-b5ac-826f3858980e" />
+
+<img width="1069" height="534" alt="Screenshot 2026-05-30 111833" src="https://github.com/user-attachments/assets/647e96f7-ef4a-4694-be42-dc5f4222fc97" />
 
 
 ---
@@ -215,7 +217,7 @@ APR-246 (also called PRIMA-1MET or Eprenetapopt) is a clinically relevant small 
 
 ### Docking Results
 
-> 📸 <img width="1769" height="626" alt="Screenshot 2026-05-30 104741" src="https://github.com/user-attachments/assets/f33b3b9a-0f52-4a5a-b4e8-2398fa830a52" />
+>  <img width="1769" height="626" alt="Screenshot 2026-05-30 104741" src="https://github.com/user-attachments/assets/f33b3b9a-0f52-4a5a-b4e8-2398fa830a52" />
 
 **Output file:** `docked_poses.sdf` — contains all 9 predicted binding poses with CNN scores and binding affinities (kcal/mol).
 
