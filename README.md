@@ -51,7 +51,7 @@ TP53 encodes the p53 protein — a transcription factor and the most critical ch
 ## Step 1 — DNA Sequence Retrieval
 
 **Tool:** Biopython (NCBI Entrez API)  
-**Script:** `step1_fetch_dna.py`  
+**Script:** `dna to mrna.py`  
 **Platform:** Google Colab
 
 The DNA sequence of TP53 was fetched directly from NCBI using the official mRNA reference accession **NM_000546**.
