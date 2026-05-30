@@ -132,7 +132,7 @@ The TP53 protein sequence (393 aa) was submitted to BLASTP to confirm identity a
 - All top hits have E-value = **0.0** — statistically perfect matches
 - Query length confirmed at **393 amino acids** — matches expected p53 protein length
 
-> 📸 <img width="1337" height="898" alt="Screenshot 2026-05-30 104943" src="https://github.com/user-attachments/assets/927be940-93c8-44ea-acd4-d5bd2fc0d6d5" />
+> 📸
 <img width="1762" height="671" alt="Screenshot 2026-05-30 104342" src="https://github.com/user-attachments/assets/cb5534bf-d6e1-43d4-9946-0a36ad170d16" />
 
 <img width="1595" height="885" alt="Screenshot 2026-05-30 105813" src="https://github.com/user-attachments/assets/51162e71-c721-4889-9927-358b91da89b2" />
