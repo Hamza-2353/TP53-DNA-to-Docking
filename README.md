@@ -77,7 +77,7 @@ AGGGAGGGAGAGAATCTTCCAGGGCCAGCTCGGGCAGCAATCAGCAGG...
 ## Step 2 — DNA to mRNA Conversion
 
 **Tool:** Biopython `Seq.transcribe()`  
-**Script:** `step1_fetch_dna.py`  
+**Script:** `dna to mrna.py`  
 **Platform:** Google Colab
 
 The DNA coding sequence was transcribed to mRNA by replacing every **T → U**, following the central dogma of molecular biology.
@@ -132,14 +132,11 @@ The TP53 protein sequence (393 aa) was submitted to BLASTP to confirm identity a
 - All top hits have E-value = **0.0** — statistically perfect matches
 - Query length confirmed at **393 amino acids** — matches expected p53 protein length
 
-> 📸 *[<img width="1762" height="671" alt="Screenshot 2026-05-30 104342" src="https://github.com/user-attachments/assets/cb5534bf-d6e1-43d4-9946-0a36ad170d16" />
+> 📸 <img width="1337" height="898" alt="Screenshot 2026-05-30 104943" src="https://github.com/user-attachments/assets/927be940-93c8-44ea-acd4-d5bd2fc0d6d5" />
+<img width="1762" height="671" alt="Screenshot 2026-05-30 104342" src="https://github.com/user-attachments/assets/cb5534bf-d6e1-43d4-9946-0a36ad170d16" />
 
 <img width="1595" height="885" alt="Screenshot 2026-05-30 105813" src="https://github.com/user-attachments/assets/51162e71-c721-4889-9927-358b91da89b2" />
 
-<img width="1337" height="898" alt="Screenshot 2026-05-30 104943" src="https://github.com/user-attachments/assets/8b42e230-41e1-49e8-b871-df4177adabac" />
-
-<img width="1769" height="626" alt="Screenshot 2026-05-30 104741" src="https://github.com/user-attachments/assets/8baf8dd2-27df-4983-aaaf-bae4a926ada2" />
-]*
 
 
 ---
@@ -179,9 +176,8 @@ pLDDT (predicted Local Distance Difference Test) measures per-residue confidence
 | 50 – 70 | Low confidence (may be disordered) |
 | < 50 | Very low (intrinsically disordered) |
 
-> 📸 *[Add your pLDDT plot screenshot here — from TP53_structure_7c637_plddt file]*
+> 📸 <img width="1337" height="898" alt="Screenshot 2026-05-30 104943" src="https://github.com/user-attachments/assets/abcd9558-f66b-4850-b5ac-826f3858980e" />
 
-> 📸 *[Add your 3D structure visualization screenshot here — open .pdb in https://molstar.org/viewer/]*
 
 ---
 
@@ -219,9 +215,7 @@ APR-246 (also called PRIMA-1MET or Eprenetapopt) is a clinically relevant small 
 
 ### Docking Results
 
-> 📸 *[Add your GNINA terminal output screenshot here showing affinity scores]*
-
-> 📸 *[Add docked pose visualization — upload protein.pdb + docked_poses.sdf to https://molstar.org/viewer/]*
+> 📸 <img width="1769" height="626" alt="Screenshot 2026-05-30 104741" src="https://github.com/user-attachments/assets/f33b3b9a-0f52-4a5a-b4e8-2398fa830a52" />
 
 **Output file:** `docked_poses.sdf` — contains all 9 predicted binding poses with CNN scores and binding affinities (kcal/mol).
 
