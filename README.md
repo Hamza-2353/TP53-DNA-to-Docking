@@ -229,7 +229,8 @@ APR-246 (also called PRIMA-1MET or Eprenetapopt) is a clinically relevant small 
 | 8 | -5.16 | 0.0949 | 4.726 |
 | 9 | -5.56 | 0.0862 | 4.626 |
 
-**Best binding affinity: -5.22 kcal/mol (Mode 1)**
+**Strongest binding affinity: -5.56 kcal/mol (Mode 9)**  
+**Mode 1 selected as best overall pose (highest CNN pose score: 0.1708)**
 
 **Output file:** `docked_poses.sdf` — contains all 9 predicted binding poses with CNN scores and binding affinities (kcal/mol).
 
