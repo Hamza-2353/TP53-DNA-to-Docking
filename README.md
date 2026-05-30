@@ -242,7 +242,7 @@ pip install biopython
 
 ### Step 1 & 2 — DNA + mRNA
 ```bash
-python step1_fetch_dna.py
+python dna to mrna.py
 ```
 
 ### Step 3 — BLAST
