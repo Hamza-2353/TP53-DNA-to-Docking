@@ -217,6 +217,19 @@ APR-246 (also called PRIMA-1MET or Eprenetapopt) is a clinically relevant small 
 
 ### Docking Results
 
+mode |  affinity  |    CNN     |   CNN
+     | (kcal/mol) | pose score | affinity
+-----+------------+------------+----------
+    1       -5.22       0.1708      4.485
+    2       -5.14       0.1462      4.487
+    3       -4.69       0.1393      4.901
+    4       -4.13       0.1357      4.409
+    5       -5.19       0.1119      4.308
+    6       -5.33       0.1021      4.233
+    7       -4.69       0.1007      4.598
+    8       -5.16       0.0949      4.726
+    9       -5.56       0.0862      4.626
+
 >  <img width="1769" height="626" alt="Screenshot 2026-05-30 104741" src="https://github.com/user-attachments/assets/f33b3b9a-0f52-4a5a-b4e8-2398fa830a52" />
 
 **Output file:** `docked_poses.sdf` — contains all 9 predicted binding poses with CNN scores and binding affinities (kcal/mol).
