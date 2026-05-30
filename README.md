@@ -51,7 +51,7 @@ TP53 encodes the p53 protein — a transcription factor and the most critical ch
 ## Step 1 — DNA Sequence Retrieval
 
 **Tool:** Biopython (NCBI Entrez API)  
-**Script:** `dna to mrna.py`  
+**Script:** `dna_to_mrna.py`  
 **Platform:** Google Colab
 
 The DNA sequence of TP53 was fetched directly from NCBI using the official mRNA reference accession **NM_000546**.
@@ -77,7 +77,7 @@ AGGGAGGGAGAGAATCTTCCAGGGCCAGCTCGGGCAGCAATCAGCAGG...
 ## Step 2 — DNA to mRNA Conversion
 
 **Tool:** Biopython `Seq.transcribe()`  
-**Script:** `dna to mrna.py`  
+**Script:** `dna_to_mrna.py`  
 **Platform:** Google Colab
 
 The DNA coding sequence was transcribed to mRNA by replacing every **T → U**, following the central dogma of molecular biology.
@@ -242,7 +242,7 @@ pip install biopython
 
 ### Step 1 & 2 — DNA + mRNA
 ```bash
-python dna to mrna.py
+python dna_to_mrna.py
 ```
 
 ### Step 3 — BLAST
