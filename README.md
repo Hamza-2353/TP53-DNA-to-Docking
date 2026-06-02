@@ -233,7 +233,34 @@ APR-246 (also called PRIMA-1MET or Eprenetapopt) is a clinically relevant small 
 **Mode 1 selected as best overall pose (highest CNN pose score: 0.1708)**
 
 **Output file:** `docked_poses.sdf` — contains all 9 predicted binding poses with CNN scores and binding affinities (kcal/mol).
+## Docking Results
 
+### Model 1
+![Model 1](docking_results/Model_1.png)
+
+### Model 2
+![Model 2](docking_results/Model_2.png)
+
+### Model 3
+![Model 3](docking_results/Model_3.png)
+
+### Model 4
+![Model 4](docking_results/Model_4.png)
+
+### Model 5
+![Model 5](docking_results/Model_5.png)
+
+### Model 6
+![Model 6](docking_results/Model_6.png)
+
+### Model 7
+![Model 7](docking_results/Model_7.png)
+
+### Model 8
+![Model 8](docking_results/Model_8.png)
+
+### Model 9
+![Model 9](docking_results/Model_9.png)
 ---
 
 ## Results Summary
