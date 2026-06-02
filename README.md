@@ -239,7 +239,7 @@ APR-246 (also called PRIMA-1MET or Eprenetapopt) is a clinically relevant small 
 ![Model 1](docking_results/Model_1.png)
 
 ### Model 2
-![Model 2](docking_results/Model_2.png)
+![Model 2](docking_results/Model%20_2.png)
 
 ### Model 3
 ![Model 3](docking_results/Model_3.png)
